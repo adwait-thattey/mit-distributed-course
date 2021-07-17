@@ -1,0 +1,515 @@
+[
+    {
+        "class_name": "Class",
+        "type": "unknown",
+        "notes": [],
+        "papers": [],
+        "ytvideos": [],
+        "faq": [],
+        "others": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "LAB2B",
+        "type": "lab",
+        "notes": [],
+        "papers": [],
+        "ytvideos": [],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/labs/lab-raft.html",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "LEC8",
+        "type": "lec",
+        "notes": [],
+        "papers": [],
+        "ytvideos": [
+            "https://youtu.be/VIZCheV4dWY"
+        ],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/questions.html?q=q-QAlab&lec=8",
+            "https://pdos.csail.mit.edu/6.824/project.html",
+            "",
+            "",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "LEC 9",
+        "type": "lec",
+        "notes": [
+            "https://pdos.csail.mit.edu/6.824/notes/l-zookeeper.txt"
+        ],
+        "papers": [
+            "https://pdos.csail.mit.edu/6.824/papers/zookeeper.pdf",
+            "https://pdos.csail.mit.edu/6.824/papers/zookeeper-faq.txt"
+        ],
+        "ytvideos": [
+            "https://youtu.be/HYTDDLo2vSE"
+        ],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/questions.html?q=q-go&lec=10",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "Lab 2C",
+        "type": "lab",
+        "notes": [],
+        "papers": [],
+        "ytvideos": [],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/notes/l-zookeeper.txt",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "Lab 3",
+        "type": "lab",
+        "notes": [],
+        "papers": [],
+        "ytvideos": [],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/labs/lab-kvraft.html",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "LEC 10",
+        "type": "lec",
+        "notes": [],
+        "papers": [
+            "https://pdos.csail.mit.edu/6.824/papers/go-faq.txt"
+        ],
+        "ytvideos": [
+            "https://youtu.be/IdCbMO0Ey9I"
+        ],
+        "faq": [],
+        "others": [
+            "https://swtch.com/mit-6824-go-2021.pdf",
+            "http://swtch.com/~rsc/",
+            "https://pdos.csail.mit.edu/6.824/questions.html?q=q-go&lec=10",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "Lab 2 D",
+        "type": "lab",
+        "notes": [],
+        "papers": [],
+        "ytvideos": [],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/labs/lab-raft.html",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "LEC 11",
+        "type": "lec",
+        "notes": [
+            "https://pdos.csail.mit.edu/6.824/notes/l-cr.txt"
+        ],
+        "papers": [
+            "https://pdos.csail.mit.edu/6.824/papers/cr-osdi04.pdf"
+        ],
+        "ytvideos": [
+            "https://youtu.be/1uUcW-Mqg5o"
+        ],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/questions.html?q=q-cr&lec=11",
+            "",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "Mid-term Exam",
+        "type": "unknown",
+        "notes": [],
+        "papers": [],
+        "ytvideos": [],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/quizzes.html",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "Project proposals",
+        "type": "unknown",
+        "notes": [],
+        "papers": [],
+        "ytvideos": [],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/project.html",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "LEC 12",
+        "type": "lec",
+        "notes": [
+            "https://pdos.csail.mit.edu/6.824/notes/l-frangipani.txt"
+        ],
+        "papers": [
+            "https://pdos.csail.mit.edu/6.824/papers/thekkath-frangipani.pdf",
+            "https://pdos.csail.mit.edu/6.824/papers/frangipani-faq.txt"
+        ],
+        "ytvideos": [
+            "https://youtu.be/jPrUxfIcWWs"
+        ],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/questions.html?q=q-frangipani&lec=12",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "Lab 4 (Lec 12)",
+        "type": "lab",
+        "notes": [],
+        "papers": [],
+        "ytvideos": [],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/labs/lab-shard.html",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "LEC 13",
+        "type": "lec",
+        "notes": [
+            "https://pdos.csail.mit.edu/6.824/notes/l-2pc.txt"
+        ],
+        "papers": [
+            "https://pdos.csail.mit.edu/6.824/papers/chapter9-faq.txt"
+        ],
+        "ytvideos": [
+            "https://youtu.be/B6btpukqHpM"
+        ],
+        "faq": [],
+        "others": [
+            "https://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/",
+            "https://pdos.csail.mit.edu/6.824/questions.html?q=q-chapter9&lec=13",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "Lab 3A",
+        "type": "lab",
+        "notes": [],
+        "papers": [],
+        "ytvideos": [],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/labs/lab-kvraft.html",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "LEC 14",
+        "type": "lec",
+        "notes": [
+            "https://pdos.csail.mit.edu/6.824/notes/l-spanner.txt"
+        ],
+        "papers": [
+            "https://pdos.csail.mit.edu/6.824/papers/spanner.pdf",
+            "https://pdos.csail.mit.edu/6.824/papers/spanner-faq.txt"
+        ],
+        "ytvideos": [
+            "https://youtu.be/ZulDvY429B8"
+        ],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/questions.html?q=q-spanner&lec=14",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "Lab 3B",
+        "type": "lab",
+        "notes": [],
+        "papers": [],
+        "ytvideos": [],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/labs/lab-kvraft.html",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "Lab 4A",
+        "type": "lab",
+        "notes": [],
+        "papers": [],
+        "ytvideos": [],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/labs/lab-shard.html",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "LEC 15 (Multipole Videos)",
+        "type": "lec",
+        "notes": [
+            "https://pdos.csail.mit.edu/6.824/notes/l-farm.txt"
+        ],
+        "papers": [
+            "https://pdos.csail.mit.edu/6.824/papers/farm-2015.pdf",
+            "https://pdos.csail.mit.edu/6.824/papers/farm-faq.txt"
+        ],
+        "ytvideos": [
+            "https://youtu.be/07xsfL5E8Ck",
+            "https://youtu.be/XwU4jKhBxws\n"
+        ],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/video/14.html",
+            "https://pdos.csail.mit.edu/6.824/questions.html?q=q-farm&lec=15"
+        ]
+    },
+    {
+        "class_name": "LEC 16",
+        "type": "lec",
+        "notes": [
+            "https://pdos.csail.mit.edu/6.824/notes/l-spark.txt"
+        ],
+        "papers": [
+            "https://pdos.csail.mit.edu/6.824/papers/zaharia-spark.pdf",
+            "https://pdos.csail.mit.edu/6.824/papers/spark-faq.txt"
+        ],
+        "ytvideos": [
+            "https://youtu.be/qXb5rDGqFdc\n"
+        ],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/video/15.html",
+            "https://pdos.csail.mit.edu/6.824/questions.html?q=q-sundr&lec=18",
+            "https://pdos.csail.mit.edu/6.824/questions.html?q=q-spark&lec=16"
+        ]
+    },
+    {
+        "class_name": "LEC 17",
+        "type": "lec",
+        "notes": [
+            "https://pdos.csail.mit.edu/6.824/notes/l-memcached.txt"
+        ],
+        "papers": [
+            "https://pdos.csail.mit.edu/6.824/papers/memcache-fb.pdf",
+            "https://pdos.csail.mit.edu/6.824/papers/memcache-faq.txt"
+        ],
+        "ytvideos": [
+            "https://youtu.be/eYZg0YJtFEE"
+        ],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/video/16.html",
+            "https://pdos.csail.mit.edu/6.824/questions.html?q=q-memcached&lec=17",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "LEC 18",
+        "type": "lec",
+        "notes": [],
+        "papers": [
+            "https://pdos.csail.mit.edu/6.824/papers/li-sundr.pdf"
+        ],
+        "ytvideos": [
+            "https://youtu.be/FxwjSs_xSBM"
+        ],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/questions.html?q=q-sundr&lec=18",
+            "",
+            "",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "LEC 19",
+        "type": "lec",
+        "notes": [
+            "https://pdos.csail.mit.edu/6.824/notes/l-bitcoin.txt"
+        ],
+        "papers": [
+            "https://pdos.csail.mit.edu/6.824/papers/bitcoin.pdf",
+            "https://pdos.csail.mit.edu/6.824/papers/bitcoin-faq.txt"
+        ],
+        "ytvideos": [
+            "https://youtu.be/yB6m8EjAqPU\n"
+        ],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/video/19.html",
+            "http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works",
+            "https://pdos.csail.mit.edu/6.824/questions.html?q=q-blockstack&lec=20"
+        ]
+    },
+    {
+        "class_name": "Lab 4B",
+        "type": "lab",
+        "notes": [],
+        "papers": [],
+        "ytvideos": [],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/labs/lab-shard.html",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "Project reports and code",
+        "type": "unknown",
+        "notes": [],
+        "papers": [],
+        "ytvideos": [],
+        "faq": [],
+        "others": [
+            "Project reports and code",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "LEC 20",
+        "type": "lec",
+        "notes": [
+            "https://pdos.csail.mit.edu/6.824/notes/l-blockstack.txt"
+        ],
+        "papers": [
+            "https://pdos.csail.mit.edu/6.824/papers/blockstack-atc16.pdf",
+            "https://pdos.csail.mit.edu/6.824/papers/blockstack-faq.txt"
+        ],
+        "ytvideos": [
+            "https://youtu.be/DnyBPxo3B6I"
+        ],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/video/20.html",
+            "https://pdos.csail.mit.edu/6.824/questions.html?q=q-blockstack&lec=20",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "LEC 21",
+        "type": "lec",
+        "notes": [],
+        "papers": [
+            "https://pdos.csail.mit.edu/6.824/papers/katabi-analogicfs.pdf",
+            "https://pdos.csail.mit.edu/6.824/papers/analogicfs-faq.txt"
+        ],
+        "ytvideos": [
+            "https://youtu.be/bu41Qt9G5Qo"
+        ],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/questions.html?q=q-analogic&lec=21",
+            "",
+            "",
+            "\n"
+        ]
+    },
+    {
+        "class_name": "Final exam",
+        "type": "unknown",
+        "notes": [],
+        "papers": [],
+        "ytvideos": [],
+        "faq": [],
+        "others": [
+            "https://pdos.csail.mit.edu/6.824/quizzes.html",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    }
+]

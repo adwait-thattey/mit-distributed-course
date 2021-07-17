@@ -1,0 +1,28 @@
+Date	Class							
+Mar 12	LAB2B	https://pdos.csail.mit.edu/6.824/labs/lab-raft.html						
+	LEC8	https://pdos.csail.mit.edu/6.824/questions.html?q=q-QAlab&lec=8	https://youtu.be/VIZCheV4dWY	https://pdos.csail.mit.edu/6.824/project.html				
+	LEC 9	https://pdos.csail.mit.edu/6.824/notes/l-zookeeper.txt	https://youtu.be/HYTDDLo2vSE	https://pdos.csail.mit.edu/6.824/papers/zookeeper.pdf	https://pdos.csail.mit.edu/6.824/papers/zookeeper-faq.txt	https://pdos.csail.mit.edu/6.824/questions.html?q=q-go&lec=10		
+	Lab 2C	https://pdos.csail.mit.edu/6.824/notes/l-zookeeper.txt						
+	Lab 3	https://pdos.csail.mit.edu/6.824/labs/lab-kvraft.html						
+	LEC 10	https://swtch.com/mit-6824-go-2021.pdf	http://swtch.com/~rsc/	https://youtu.be/IdCbMO0Ey9I	https://pdos.csail.mit.edu/6.824/papers/go-faq.txt	https://pdos.csail.mit.edu/6.824/questions.html?q=q-go&lec=10		
+	Lab 2 D	https://pdos.csail.mit.edu/6.824/labs/lab-raft.html						
+	LEC 11	https://pdos.csail.mit.edu/6.824/notes/l-cr.txt	https://youtu.be/1uUcW-Mqg5o	https://pdos.csail.mit.edu/6.824/papers/cr-osdi04.pdf	https://pdos.csail.mit.edu/6.824/questions.html?q=q-cr&lec=11			
+Apr 1	Mid-term Exam	https://pdos.csail.mit.edu/6.824/quizzes.html						
+	Project proposals	https://pdos.csail.mit.edu/6.824/project.html						
+	LEC 12	https://pdos.csail.mit.edu/6.824/notes/l-frangipani.txt	https://youtu.be/jPrUxfIcWWs	https://pdos.csail.mit.edu/6.824/papers/thekkath-frangipani.pdf	https://pdos.csail.mit.edu/6.824/papers/frangipani-faq.txt	https://pdos.csail.mit.edu/6.824/questions.html?q=q-frangipani&lec=12		
+	Lab 4 (Lec 12)	https://pdos.csail.mit.edu/6.824/labs/lab-shard.html						
+	LEC 13	https://pdos.csail.mit.edu/6.824/notes/l-2pc.txt	https://youtu.be/B6btpukqHpM	https://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/	https://pdos.csail.mit.edu/6.824/papers/chapter9-faq.txt	https://pdos.csail.mit.edu/6.824/questions.html?q=q-chapter9&lec=13		
+	Lab 3A	https://pdos.csail.mit.edu/6.824/labs/lab-kvraft.html						
+Apr 15	LEC 14	https://pdos.csail.mit.edu/6.824/notes/l-spanner.txt	https://youtu.be/ZulDvY429B8	https://pdos.csail.mit.edu/6.824/papers/spanner.pdf	https://pdos.csail.mit.edu/6.824/papers/spanner-faq.txt	https://pdos.csail.mit.edu/6.824/questions.html?q=q-spanner&lec=14		
+	Lab 3B	https://pdos.csail.mit.edu/6.824/labs/lab-kvraft.html						
+	Lab 4A	https://pdos.csail.mit.edu/6.824/labs/lab-shard.html						
+Apr 27	LEC 15 (Multipole Videos)	https://pdos.csail.mit.edu/6.824/notes/l-farm.txt	https://pdos.csail.mit.edu/6.824/video/14.html	https://pdos.csail.mit.edu/6.824/papers/farm-2015.pdf	https://pdos.csail.mit.edu/6.824/papers/farm-faq.txt	https://pdos.csail.mit.edu/6.824/questions.html?q=q-farm&lec=15	https://youtu.be/07xsfL5E8Ck	https://youtu.be/XwU4jKhBxws
+	LEC 16	https://pdos.csail.mit.edu/6.824/notes/l-spark.txt	https://pdos.csail.mit.edu/6.824/video/15.html	https://pdos.csail.mit.edu/6.824/papers/zaharia-spark.pdf	https://pdos.csail.mit.edu/6.824/papers/spark-faq.txt	https://pdos.csail.mit.edu/6.824/questions.html?q=q-sundr&lec=18	https://pdos.csail.mit.edu/6.824/questions.html?q=q-spark&lec=16	https://youtu.be/qXb5rDGqFdc
+	LEC 17	https://pdos.csail.mit.edu/6.824/notes/l-memcached.txt	https://pdos.csail.mit.edu/6.824/video/16.html	https://pdos.csail.mit.edu/6.824/papers/memcache-fb.pdf	https://pdos.csail.mit.edu/6.824/papers/memcache-faq.txt	https://pdos.csail.mit.edu/6.824/questions.html?q=q-memcached&lec=17	https://youtu.be/eYZg0YJtFEE	
+	LEC 18	https://pdos.csail.mit.edu/6.824/papers/li-sundr.pdf	https://pdos.csail.mit.edu/6.824/questions.html?q=q-sundr&lec=18	https://youtu.be/FxwjSs_xSBM				
+	LEC 19	https://pdos.csail.mit.edu/6.824/notes/l-bitcoin.txt	https://pdos.csail.mit.edu/6.824/video/19.html	https://pdos.csail.mit.edu/6.824/papers/bitcoin.pdf	http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works	https://pdos.csail.mit.edu/6.824/papers/bitcoin-faq.txt	https://pdos.csail.mit.edu/6.824/questions.html?q=q-blockstack&lec=20	https://youtu.be/yB6m8EjAqPU
+May 14	Lab 4B	https://pdos.csail.mit.edu/6.824/labs/lab-shard.html						
+	Project reports and code	Project reports and code						
+	LEC 20	https://pdos.csail.mit.edu/6.824/notes/l-blockstack.txt	https://pdos.csail.mit.edu/6.824/video/20.html	https://pdos.csail.mit.edu/6.824/papers/blockstack-atc16.pdf	https://pdos.csail.mit.edu/6.824/papers/blockstack-faq.txt	https://pdos.csail.mit.edu/6.824/questions.html?q=q-blockstack&lec=20	https://youtu.be/DnyBPxo3B6I	
+	LEC 21	https://pdos.csail.mit.edu/6.824/papers/katabi-analogicfs.pdf	https://pdos.csail.mit.edu/6.824/papers/analogicfs-faq.txt	https://pdos.csail.mit.edu/6.824/questions.html?q=q-analogic&lec=21	https://youtu.be/bu41Qt9G5Qo			
+May 24	Final exam	https://pdos.csail.mit.edu/6.824/quizzes.html						
