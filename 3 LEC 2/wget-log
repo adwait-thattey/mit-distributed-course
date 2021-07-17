@@ -1,0 +1,12 @@
+--2021-03-07 21:21:46--  https://pdos.csail.mit.edu/6.824/questions.html?q=q-gointro
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving pdos.csail.mit.edu (pdos.csail.mit.edu)... 128.52.129.126
+Connecting to pdos.csail.mit.edu (pdos.csail.mit.edu)|128.52.129.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 28293 (28K) [text/html]
+Saving to: 'questions.html?q=q-gointro'
+
+questions.html?q=q-gointro                        0%[                                                                                                     ]       0  --.-KB/s               questions.html?q=q-gointro                       39%[=======================================>                                                             ]  11.03K  35.9KB/s               questions.html?q=q-gointro                      100%[====================================================================================================>]  27.63K  89.4KB/s    in 0.3s    
+
+2021-03-07 21:21:48 (89.4 KB/s) - 'questions.html?q=q-gointro' saved [28293/28293]
+
